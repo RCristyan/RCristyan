@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![RCristyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RCristyan)](https://github.com/anuraghazra/github-readme-stats)
+[![RCristyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RCristyan&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **RCristyan/RCristyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
